@@ -1,1 +1,1 @@
-module.exports = '0.4.80'
+export default '0.4.88';
